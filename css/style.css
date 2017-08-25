@@ -187,6 +187,12 @@ section {
     position: absolute;
     left: 0
 }
+.social-footer{
+    padding-top: 30px;
+}
+.fa{
+    padding-right: 10px;
+}
 .show-menu {
     transform: translateX(0)
 }
@@ -331,6 +337,22 @@ section {
 }
 .portfolio-background .section-title {
     margin-bottom: 50px
+}
+.about {
+    padding: 100px 0 70px;
+    text-align: center
+}
+.about .section-title {
+    margin-bottom: 50px
+}
+.picture{
+    height: 80%;
+    width: 80%;
+}
+.about-2{
+    font-size: 18px;
+    padding: 30px 0px 30px 0px;
+    text-align: justify;
 }
 .portfolio-filter {
     margin-bottom: 35px
