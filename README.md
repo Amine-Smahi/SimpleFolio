@@ -11,3 +11,6 @@ SimpleFolio is a Modern Minimal HTML5 Template which has been built with Bootstr
 ✓ Valid HTML5 & C553 <br>
 ✓ Push Menu <br>
 ✓ Well organized Documentation
+
+## Some Screenshots
+![SimpleFolio Modern Minimal Design Light Clean Codes HTML5 & C553](https://user-images.githubusercontent.com/24621701/29724247-a5264460-897c-11e7-83a7-de49b0f36bd7.png)
